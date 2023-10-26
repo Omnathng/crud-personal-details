@@ -1,0 +1,1 @@
+export const serverURL = "https://crudapp-json-server.onrender.com/"
